@@ -1,4 +1,4 @@
-**Monitoring Refugee Crisis in the Aagean Sea**
+**Monitoring Refugee Crisis in the Aegean Sea**
 
 This Shiny app is focused on tracking and mapping the refugee crisis in the Aegean Sea. Our motivation and data come from the Aegean Boat Report (https://aegeanboatreport.com/), which is an independent and volunteer-run media site. 
 
