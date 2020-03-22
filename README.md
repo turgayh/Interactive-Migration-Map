@@ -4,7 +4,7 @@ This Shiny app is focused on tracking and mapping the refugee crisis in the Aege
 
 We extracted the refugee data from this web site for the period January 2018-December 2019 and the retrieved data set involves the following information: 
 
-* Boats arrived: The number of boats arrived an island, 
+* Boats arrived: The number of boats arrived at island, 
 * Total arrivals: The number of total arrivals to the island via boats,  
 * Transfers to mainland: The number of people who moved from the island to Greece mainland, and 
 * Total population: The total number of refugees left in the island,
